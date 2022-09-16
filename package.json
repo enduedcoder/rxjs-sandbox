@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishaholkar/rxjs-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitishaholkar/rxjs-sandbox/issues"
+  },
+  "homepage": "https://github.com/nitishaholkar/rxjs-sandbox#readme",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  }
+}
